@@ -7,7 +7,7 @@
 - **Languages:** **Python**, **C/C++**, **JavaScript**, **MATLAB**
 - **Web:** Flask/Django, HTML, CSS/Bootstrap, React
 - **Machine Learning & NLP:** TensorFlow, Scikit-Learn, PyTorch, NLTK, spaCy, Transformers
-- **Data Analysis & Visualization:** Matplotlib, Seaborn **Tools:** Power BI
+- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn **Tools:** Power BI
 - **Databases:** *(SQL)* MySQL/PostgreSQL, *(NoSQL)* MongoDB, **ORM:** SQLAlchemy
 - **CI/CD with Microservices**: Git, Pytest, Github Actions, Docker/Docker Compose, Kubernetes, RabbitMQ
 - **Operating System:** Linux, Windows
