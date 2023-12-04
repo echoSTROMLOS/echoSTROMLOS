@@ -4,17 +4,17 @@
 **I'm Saklain Iqbal, a recent Mechatronics Engineering graduate from Rajshahi University of Engineering & Technology (RUET), Bangladesh.**
 
 ### ➜ My Skills
-- **Languages:** **Python** *(expert)*, **C/C++** *(proficient)*, **JavaScript**, **MATLAB**
-- **Web:** Flask (backend), HTML, CSS/Bootstrap 
-- **Machine Learning:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, NLTK, spaCy, Transformers
-- **Data Visualization:** Matplotlib, Seaborn **Tools:** Power BI (Basic)
-- **Databases:** MySQL/PostgreSQL, MongoDB, **ORM:** SQLAlchemy
-- **VCS & CI/CD (*still novice*)**: Git/Github, Docker/Docker Compose, Kubernetes
+- **Languages:** **Python**, **C/C++**, **JavaScript**, **MATLAB**
+- **Web:** Flask/Django, HTML, CSS/Bootstrap, React
+- **Machine Learning & NLP:** TensorFlow, Scikit-Learn, PyTorch, NLTK, spaCy, Transformers
+- **Data Analysis & Visualization:** Matplotlib, Seaborn **Tools:** Power BI
+- **Databases:** *(SQL)* MySQL/PostgreSQL, *(NoSQL)* MongoDB, **ORM:** SQLAlchemy
+- **CI/CD with Microservices**: Git, Pytest, Github Actions, Docker/Docker Compose, Kubernetes, RabbitMQ
 - **Operating System:** Linux, Windows
-- **Interests:** Problem Solving (Data Structures and Algorithms), Machine Learning, NLP, Software Engineering.
+- **Interests:** Problem Solving (Data Structures and Algorithms), Software Engineering, Machine Learning & NLP, 
 
 ### ➜ Past Activities and Certifications
-- Solved atleast 700+ Data Structures and Algorithms problems on Leetcode, Hackerrank, Codeforces, and other OJs.
+- Solved atleast 750+ Data Structures and Algorithms problems on Leetcode, Hackerrank, Codeforces, UVa and other OJs.
 - Hold a [Hackerrank Problem Solving (Intermediate) @2020 Certification](https://www.hackerrank.com/certificates/df86a3b17cf9)
 - Completed undergraduate thesis focused on Natural Language Processing (Tweet Mining, Text Classification, Named Entity Recognition, Transformers).
 - Contributed to various small machine learning and data science projects as well.
