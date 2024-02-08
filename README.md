@@ -1,7 +1,7 @@
 ## Hi there! 👋
 ![](https://komarev.com/ghpvc/?username=echoSTROMLOS&style=flat-square)
 
-**I'm Saklain Iqbal, a recent Mechatronics Engineering graduate from Rajshahi University of Engineering & Technology (RUET), Bangladesh.**
+**I'm Saklain Iqbal**
 
 ### ➜ My Skills
 - **Languages:** **Python**, **C/C++**, **JavaScript**, **MATLAB**
@@ -13,8 +13,9 @@
 - **Operating System:** Linux, Windows
 - **Interests:** Problem Solving (Data Structures and Algorithms), Software Engineering, Machine Learning & NLP.
 
-### ➜ Past Activities and Certifications
-- Solved atleast 1000+ Data Structures and Algorithms problems on Leetcode, Hackerrank, Codeforces, UVa and other OJs.
+### ➜ Education, Past Activities and Certifications
+- Rajshahi University of Engineering & Technology (B.Sc. in Mechatronics Engineering)
+- Solved atleast **1000+ Data Structures & Algorithms problems** on Leetcode, Hackerrank, Codeforces, UVa and other OJs.
 - [Hackerrank Problem Solving (Intermediate) @2020 Certification](https://www.hackerrank.com/certificates/df86a3b17cf9)
 - Completed undergraduate thesis focused on Natural Language Processing (Tweet Mining, Text Classification, Named Entity Recognition, Transformers).
 - Contributed to various small machine learning and data science projects as well.
