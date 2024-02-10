@@ -8,7 +8,7 @@
 - **Web:** Django/Flask, HTML, CSS/Bootstrap, React
 - **Machine Learning & NLP:** TensorFlow, Scikit-Learn, PyTorch, NLTK, spaCy, Transformers
 - **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn **Tools:** Power BI
-- **Databases:** *(SQL)* MySQL/PostgreSQL
+- **Databases:** *(SQL)* MySQL/PostgreSQL, *(NoSQL)* MongoDB
 - **CI/CD with Microservices**: Git, Pytest, Github Actions, Docker/Docker Compose, Kubernetes, RabbitMQ, Celery.
 - **Operating System:** Linux, Windows
 - **Interests:** Problem Solving (Data Structures and Algorithms), Software Engineering, Machine Learning & NLP.
@@ -16,7 +16,7 @@
 ### ➜ Education, Past Activities and Certifications
 - Rajshahi University of Engineering & Technology (B.Sc. in Mechatronics Engineering)
 - Solved atleast **1000+ Data Structures & Algorithms problems** on Leetcode, Hackerrank, Codeforces, UVa and other OJs.
-- [Hackerrank Problem Solving (Intermediate) @2020 Certification](https://www.hackerrank.com/certificates/df86a3b17cf9)
+- [HackerRank Software Engineer Intern Role Certification](https://www.hackerrank.com/certificates/bb19f86b7bbb)
 - Completed undergraduate thesis focused on Natural Language Processing (Tweet Mining, Text Classification, Named Entity Recognition, Transformers).
 - Contributed to various small machine learning and data science projects as well.
 
